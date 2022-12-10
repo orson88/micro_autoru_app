@@ -2,11 +2,11 @@
 HOW TO USE
 For Python 3.5+ install requirements.txt
 
-If you dont have any apps laucnhed that are using default ports use this:
-streamlit run main.py (in terminal)
+<p>If you dont have any apps laucnhed that are using default ports use this:
+**streamlit run main.py (in terminal)**</p>
 
 If you do have other apps using some default ports, use this:
-streamlit run main.py --server.port <unused port number> (in terminal)
+**streamlit run main.py --server.port <unused port number>** (in terminal)
 
 Your default browser should be opened with the app
 If not, copy and paste the address to your browser http://localhost:XXXX/ (where XXXX is the specified port number)
