@@ -2,8 +2,8 @@
 HOW TO USE
 For Python 3.5+ install requirements.txt
 
-<p>If you dont have any apps laucnhed that are using default ports use this:<br>
-**streamlit run main.py (in terminal)**</p>
+If you dont have any apps laucnhed that are using default ports use this:
+**streamlit run main.py (in terminal)
 
 If you do have other apps using some default ports, use this:
 **streamlit run main.py --server.port <unused port number>** (in terminal)
