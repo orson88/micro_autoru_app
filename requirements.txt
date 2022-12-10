@@ -1,0 +1,10 @@
+pandas
+gdown~=4.6.0
+requests
+tqdm
+scikit-learn
+numpy
+matplotlib
+streamlit
+plotly
+plotly-express
